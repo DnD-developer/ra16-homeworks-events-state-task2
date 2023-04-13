@@ -1,0 +1,10 @@
+.card-view {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	flex-wrap: wrap;
+
+	padding-left: 30px;
+	padding-right: 30px;
+}
